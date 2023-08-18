@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f1e05a;width: 31.084%;" class="progress-item"></span><span style="background-color: #e34c26;width: 15.902%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 14.390%;" class="progress-item"></span><span style="background-color: #178600;width: 12.885%;" class="progress-item"></span><span style="background-color: #563d7c;width: 9.878%;" class="progress-item"></span><span style="background-color: #3572A5;width: 5.760%;" class="progress-item"></span><span style="background-color: #7e7eff;width: 2.305%;" class="progress-item"></span><span style="background-color: #ff5a03;width: 2.039%;" class="progress-item"></span><span style="background-color: #a91e50;width: 1.978%;" class="progress-item"></span><span style="background-color: #3178c6;width: 1.846%;" class="progress-item"></span><span style="background-color: #89e051;width: 1.689%;" class="progress-item"></span><span style="background-color: #EB8CEB;width: 0.244%;" class="progress-item"></span>
+<span style="background-color: #f1e05a;width: 31.046%;" class="progress-item"></span><span style="background-color: #e34c26;width: 15.892%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 14.382%;" class="progress-item"></span><span style="background-color: #178600;width: 12.877%;" class="progress-item"></span><span style="background-color: #563d7c;width: 9.953%;" class="progress-item"></span><span style="background-color: #3572A5;width: 5.757%;" class="progress-item"></span><span style="background-color: #7e7eff;width: 2.304%;" class="progress-item"></span><span style="background-color: #ff5a03;width: 2.038%;" class="progress-item"></span><span style="background-color: #a91e50;width: 1.976%;" class="progress-item"></span><span style="background-color: #3178c6;width: 1.845%;" class="progress-item"></span><span style="background-color: #89e051;width: 1.687%;" class="progress-item"></span><span style="background-color: #EB8CEB;width: 0.244%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">31.08%</span>
+<span class="percent">31.05%</span>
 </li>
 
 
@@ -153,7 +153,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">HTML</span>
-<span class="percent">15.90%</span>
+<span class="percent">15.89%</span>
 </li>
 
 
@@ -162,7 +162,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Kotlin</span>
-<span class="percent">14.39%</span>
+<span class="percent">14.38%</span>
 </li>
 
 
@@ -171,7 +171,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">C#</span>
-<span class="percent">12.89%</span>
+<span class="percent">12.88%</span>
 </li>
 
 
@@ -180,7 +180,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">CSS</span>
-<span class="percent">9.88%</span>
+<span class="percent">9.95%</span>
 </li>
 
 
@@ -225,7 +225,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">1.85%</span>
+<span class="percent">1.84%</span>
 </li>
 
 
